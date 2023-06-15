@@ -15,9 +15,9 @@ const music = new Audio();
 const songs = [
     {
         path: 'assets/1.mp3',
-        displayName: 'Dime Que Me Odias',
+        displayName: 'Euphoria',
         cover: 'assets/1.jpg',
-        artist: 'Depresión Sonora',
+        artist: 'Late night drive home',
     },
 ]
 
