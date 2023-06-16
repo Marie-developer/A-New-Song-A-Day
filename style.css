@@ -38,11 +38,11 @@ body{
 }
 
 .container{
-    background-color: #a5a3a3;
+    background-color: #7e7c83;
     height: 500px;
     width: 400px;
     border-radius: 20px;
-    box-shadow: 0 15px 30px rgba(168, 131, 131, 0.3);
+    box-shadow: 0 15px 30px rgba(17, 152, 236, 0.3);
     transition: all 0.5s ease;
 }
 
@@ -93,7 +93,7 @@ h3{
 }
 
 .player-progress{
-    background-color: #fff;
+    background-color: #ffffff;
     border-radius: 5px;
     cursor: pointer;
     margin: 40px 20px 35px;
@@ -102,7 +102,7 @@ h3{
 }
 
 .progress{
-    background-color: #212121;
+    background-color: #000000;
     border-radius: 5px;
     height: 100%;
     width: 0%;
@@ -125,7 +125,7 @@ h3{
 
 .fa-solid{
     font-size: 30px;
-    color: #666;
+    color: #a9e1f3;
     margin-right: 30px;
     cursor: pointer;
     user-select: none;
