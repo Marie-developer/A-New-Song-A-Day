@@ -15,9 +15,9 @@ const music = new Audio();
 const songs = [
     {
         path: 'assets/1.mp3',
-        displayName: 'Cigarettes Out The Window',
-        cover: 'assets/1.jpg',
-        artist: 'TV Girl',
+        displayName: 'Imperfect Girl',
+        cover: 'assets/1.jpeg',
+        artist: 'ThxSoMch, thekid.ACE',
     },
 ]
 
